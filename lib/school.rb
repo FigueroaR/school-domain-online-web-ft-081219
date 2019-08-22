@@ -26,7 +26,9 @@ class School
     sorted = {} 
     roster.each do |grade, names|
       sorted[grade] = names.sort
-    binding.pry
+    
+    
   end
+  sorted
 end 
 
