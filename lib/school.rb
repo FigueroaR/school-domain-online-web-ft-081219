@@ -22,7 +22,7 @@ class School
    end  
    
   def sort 
-    roster.a
+    roster
   end
 end 
 
