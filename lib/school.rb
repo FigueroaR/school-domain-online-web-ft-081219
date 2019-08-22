@@ -28,8 +28,8 @@ class School
       sorted[grade] = names.sort
       binding.pry
     end 
-    
+   sorted 
   end
-  sorted
+  
 end 
 
