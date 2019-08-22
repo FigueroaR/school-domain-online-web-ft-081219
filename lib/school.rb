@@ -23,6 +23,6 @@ class School
    
   def sort 
     roster.reverse.sort
-    
+  end
 end 
 
